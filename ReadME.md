@@ -1,1 +1,1 @@
-visit MainHome.html
+#기말고사 숙제용
